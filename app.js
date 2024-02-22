@@ -19,3 +19,8 @@ function test3(){
   
 }
 dasdasd
+
+asdasdasd
+
+
+function asdas(){}
