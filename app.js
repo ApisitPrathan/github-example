@@ -18,12 +18,3 @@ function Test1(){
 function test3(){
   
 }
-
-asdjhsdhjgba;jksdjklajsdlkjasdklj
-
-asdasdiojasdkja[asdasdiojasdkja
-
-a
-sdasdasd
-asdasdasdasd
-asdasd]
